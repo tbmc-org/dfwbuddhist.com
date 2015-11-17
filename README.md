@@ -20,3 +20,5 @@ Texas Buddhist Meditation Center is powered by [WordPress](https://wordpress.com
 ###Contribute
 Please feel free to contribute to this project. Make sure to create a separate branch off of master and do pull requests to get your changes in.
 
+###Questions
+If you have any questions/concerns please create an [issue](https://github.com/tbmc-org/dfwbuddhist.com/issues) on this repository or contact us at [dfwbuddhist.com/contact/](http://dfwbuddhist.com/contact/)
